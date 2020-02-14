@@ -23,5 +23,11 @@
 	<br>
 	<input type="submit" value="Get Celsius">
 </form>
+
+<br><br>
+
+<a href="login.jsp">Generate Username</a>
+
+
 </body>
 </html>
